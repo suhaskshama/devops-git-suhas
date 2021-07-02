@@ -1,1 +1,3 @@
 modifying file1
+modifying file1 for git diff
+modifying file1 for 2nd time git diff
